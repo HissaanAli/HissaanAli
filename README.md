@@ -20,7 +20,7 @@ I'm Hissaan, A deep learning specialist based in <img src = "https://cdn.britann
 
 - 🔭 I’m currently working on Deep Learning and Computer Vision
 - 🌱 I work as a freelancer on <img src = "https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo.png" width = 40>
-- 🤔 I’m looking for help with your freelance AI and computer vision projects
+- 🤔 I’m looking to help you with your freelance AI and computer vision projects
 - 💬 Ask me about AI
 - 📫 How to reach me: Email, Whatsapp
 - ⚡ Fun fact: I love soccer
