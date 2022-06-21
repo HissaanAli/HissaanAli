@@ -32,4 +32,6 @@ My Upwork profile: https://www.upwork.com/freelancers/~014e648675a2e437e5
 
 My Fiverr profile: https://www.fiverr.com/hissaanali
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github.com/HissaanAli)&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HissaanAli&show_icons=true&theme=algolia&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HissaanAli&count_private=true&theme=algolia&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/HissaanAli))
