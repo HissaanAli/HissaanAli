@@ -31,3 +31,5 @@ Personal Website: http://hissaanali.me/
 My Upwork profile: https://www.upwork.com/freelancers/~014e648675a2e437e5
 
 My Fiverr profile: https://www.fiverr.com/hissaanali
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
