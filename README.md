@@ -30,7 +30,7 @@ Personal Website: http://hissaanali.me/
 
 My Upwork profile: https://www.upwork.com/freelancers/~014e648675a2e437e5
 
-My Fiverr profile: https://www.fiverr.com/hissaanali
+My Fiverr profile: http://www.web.archive.org/web/20211226042837/www.fiverr.com/hissaanali
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HissaanAli&show_icons=true&theme=algolia&count_private=true)
 
