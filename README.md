@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hissaan, A Data Scientist and deep learning specialist based in <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" width = 13> Dubai. I'm working as a Data Scientist for the Middle East's fastest growing FMCG retail auditing company.
+As a data scientist for a retail auditing company in Dubai and a computer vision engineer for a startup in the USA, I have a diverse skill set that allows me to excel in both roles. At my job in Dubai, I use my expertise in data analysis, object detection, aws cloud and  machine learning to improve processes and decision-making for our clients in the retail industry. Meanwhile, as a computer vision engineer for a startup in the USA, I am able to utilize my skills in artificial intelligence, computer vision and image processing to develop an automatic plumbing bidding system, which streamlines the process of estimating costs and materials for plumbing projects. Through these positions, I am able to apply my knowledge and skills to make meaningful contributions to both companies and their respective industries.
 
 <h3>Things I code with</h3>
 <p>
