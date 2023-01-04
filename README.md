@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Hissaan, A deep learning specialist based in <img src = "https://cdn.britannica.com/46/3346-004-D3BDE016/flag-symbolism-Pakistan-design-Islamic.jpg" width = 13> Pakistan available to work on your data science projects.
+I'm Hissaan, A Data Scientist and deep learning specialist based in <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_United_Arab_Emirates.svg/255px-Flag_of_the_United_Arab_Emirates.svg.png" width = 13> Dubai. I'm working as a Data Scientist for the Middle East's fastest growing FMCG retail auditing company.
 
 <h3>Things I code with</h3>
 <p>
