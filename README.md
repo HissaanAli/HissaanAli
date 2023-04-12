@@ -18,7 +18,7 @@ As a data scientist for a retail auditing company in Dubai and a computer vision
 
 
 
-- 🔭 I’m currently working on Deep Learning and Computer Vision
+- 🔭 I’m currently working on Data Science and Machine learning problems in the retail industry.
 - 🌱 I'm a Top Rated Seller on <img src = "https://logos-world.net/wp-content/uploads/2021/04/Upwork-Logo.png" width = 40>
 - 🤔 I’m looking to help you with your freelance AI and computer vision projects
 - 💬 Ask me about AI
@@ -26,7 +26,7 @@ As a data scientist for a retail auditing company in Dubai and a computer vision
 - ⚡ Fun fact: I love soccer
 
 
-Personal Website: http://hissaanali.me/
+Personal Website: https://syedhissaanofficia.wixsite.com/portfolio
 
 My Upwork profile: https://www.upwork.com/freelancers/~014e648675a2e437e5
 
