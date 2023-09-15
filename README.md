@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-As a data scientist for a retail auditing company in Dubai and a computer vision engineer for a startup in the USA, I have a diverse skill set that allows me to excel in both roles. At my job in Dubai, I use my expertise in data analysis, object detection, aws cloud and  machine learning to improve processes and decision-making for our clients in the retail industry. Meanwhile, as a computer vision engineer for a startup in the USA, I am able to utilize my skills in artificial intelligence, computer vision and image processing to develop an automatic plumbing bidding system, which streamlines the process of estimating costs and materials for plumbing projects. Through these positions, I am able to apply my knowledge and skills to make meaningful contributions to both companies and their respective industries.
+I am a Microsoft-certified **Data Scientist** with a distinguished track record spanning more than **4 years** in Machine Learning, Computer Vision, and Data Science. My professional journey includes collaborations with global corporations such as Pepsi, Redbull, and P&G, where I've leveraged data to narrate impactful stories, conducted cutting-edge retail audits through computer vision, and spearheaded in-store strategic innovations in **Dubai**. Furthermore, I pride myself on being a Top Rated seller on Upwork, earning a spot among the platform's esteemed **Top 10%**. In this capacity, I have successfully executed over **150** projects within the machine learning and data science domains.
+
+Currently residing in **Germany**, my latest pursuits are centered on Large Language Models and Vector Databases.
 
 <h3>Things I code with</h3>
 <p>
