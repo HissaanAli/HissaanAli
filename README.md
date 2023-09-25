@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Computer+Vision+Engineer;Data+Scientist;?center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Machine+Learning+Engineer;Computer+Vision+Engineer;Data+Scientist)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HissaanAli&show_icons=true&theme=algolia&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HissaanAli&count_private=true&theme=algolia&layout=compact)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/HissaanAli))
 
 I am a Microsoft-certified **Data Scientist** with a distinguished track record spanning more than **4 years** in Machine Learning, Computer Vision, and Data Science. My professional journey includes collaborations with global corporations such as Pepsi, Redbull, and P&G, where I've leveraged data to narrate impactful stories, conducted cutting-edge retail audits through computer vision, and spearheaded in-store strategic innovations in **Dubai**. Furthermore, I pride myself on being a Top Rated seller on Upwork, earning a spot among the platform's esteemed **Top 10%**. In this capacity, I have successfully executed over **150** projects within the machine learning and data science domains.
 
@@ -36,6 +34,9 @@ Currently residing in **Germany**, my latest pursuits are centered on Large Lang
 - 📫 How to reach me: Email, Whatsapp
 - ⚡ Fun fact: I love soccer
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HissaanAli&show_icons=true&theme=algolia&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HissaanAli&count_private=true&theme=algolia&layout=compact&center=true)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/HissaanAli))
 
 Personal Website: https://syedhissaanofficia.wixsite.com/portfolio
 
