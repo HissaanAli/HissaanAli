@@ -15,6 +15,17 @@ Currently residing in **Germany**, my latest pursuits are centered on Large Lang
   <img alt="Google Cloud Platform" src="https://camo.githubusercontent.com/f737c8a9e60949e59f80fcca0b0019df76efb3c8ae56d38736bb93e44b447000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70616e6461732d2532333135303435382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d70616e646173266c6f676f436f6c6f723d7768697465" />
   <img alt="Google Cloud Platform" src="https://camo.githubusercontent.com/01a0e0358e1ce867c57b40f3fc5e037d6f0b7b8946ad9856749b3cf1830c0767/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6f70656e63762d25323377686974652e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6376266c6f676f436f6c6f723d7768697465" />
 
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-8dc63f?style=flat-square)
+![LLMS](https://img.shields.io/badge/LLMS-0078d4?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Llama](https://img.shields.io/badge/Llama-ffae00?style=flat-square)
+![Langchain](https://img.shields.io/badge/Langchain-2d2d2d?style=flat-square)
+
   
 </p>
 
